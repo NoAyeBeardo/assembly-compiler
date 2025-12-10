@@ -1,3 +1,4 @@
+//Example code
 LDI r1 248
 LDI r2 7 //H
 LDI r3 5 //E
